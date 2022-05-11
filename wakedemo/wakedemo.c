@@ -1,7 +1,7 @@
 #include <msp430.h>
-#include <libTimer.h>
-#include "lcdutils.h"
-#include "lcddraw.h"
+#include "timerLib/libTimer.h"
+#include "lcdLib/lcdutils.h"
+#include "lcdLib/lcddraw.h"
 
 // WARNING: LCD DISPLAY USES P1.0.  Do not touch!!! 
 

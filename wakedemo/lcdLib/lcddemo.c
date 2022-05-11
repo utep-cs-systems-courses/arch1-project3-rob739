@@ -2,7 +2,7 @@
  *  \brief A simple demo that draws a string and square
  */
 
-#include "timerLib/libTimer.h"
+#include <libTimer.h>
 #include "lcdutils.h"
 #include "lcddraw.h"
 
